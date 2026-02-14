@@ -1,3 +1,6 @@
 Hello from sampath
 editing file from user nam sampath and from branch sampath
 hello from sampath i have committed file from branch harsha and modifing in sampath and trying to commit and merge 
+
+editing file from harsha and trying to merge both sampath and harsha  
+#trying to merge both sampath and harsha changes
